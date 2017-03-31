@@ -4,6 +4,7 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 ## What's Inside
 
+
 ### Angular
 [Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet): Support zen-coding syntax for Angular 2 typescript files.
 
