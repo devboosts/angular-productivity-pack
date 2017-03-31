@@ -1,5 +1,7 @@
 # Angular Productivity Pack
 
+See an extension that you think should be included? Create an [issue](https://github.com/devboosts/angular-productivity-pack/issues).
+
 ## What's Inside
 
 ### Angular
