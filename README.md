@@ -6,6 +6,8 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 
 ### Angular
+[Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template): Editor services for Angular templates
+
 [Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet): Support zen-coding syntax for Angular 2 typescript files.
 
 [angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline): Visual Studio Code language extension for javascript/typescript files that use Angular2.
