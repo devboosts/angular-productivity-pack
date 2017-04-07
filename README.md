@@ -16,6 +16,7 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher): Easily navigate to component's files in angular2 project.
 
+[SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest): Analyzes your Angular code and generates tests for you.
 ***
 ### Git
 [Annotator](https://marketplace.visualstudio.com/items?itemName=ryu1kn.annotator): Display git blame info along with your code. Can open the diff of a particular commit from there
