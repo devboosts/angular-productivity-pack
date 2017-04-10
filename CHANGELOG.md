@@ -1,5 +1,8 @@
 # Change Log
 
+#1.2.1
+- Removed Material snippets
+
 #1.2.0
 - Removed commitizen
 - Added SimonTest
