@@ -2,7 +2,7 @@
     "name": "angular-productivity-pack",
     "displayName": "Angular Productivity Pack",
     "description": "A collection of Angular extensions to boost productivity",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "license": "MIT",
     "icon": "images/angular-muscle.png",
     "publisher": "devboosts",
@@ -23,7 +23,6 @@
     "extensionDependencies": [ 
         "Angular.ng-template",
         "robertohuertasm.vscode-icons",
-        "4tron.angular-material-snippets",
         "eg2.tslint",                           
         "formulahendry.auto-rename-tag",
         "jakethashi.vscode-angular2-emmet",
