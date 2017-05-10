@@ -1,5 +1,11 @@
 # Change Log
 
+#1.3.0
+- Added Git Lens
+- Added Auto Close Tag
+- Removed Annotate
+- Removed Git History
+
 #1.2.0
 - Removed commitizen
 - Added SimonTest

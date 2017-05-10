@@ -19,11 +19,12 @@ See an extension that you think should be included? Create an [issue](https://gi
 [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest): Analyzes your Angular code and generates tests for you.
 ***
 ### Git
-[Annotator](https://marketplace.visualstudio.com/items?itemName=ryu1kn.annotator): Display git blame info along with your code. Can open the diff of a particular commit from there
-
 [Better Merge](https://marketplace.visualstudio.com/items?itemName=pprice.better-merge): Improved git merge conflict support
 
-[Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory): View git log, file or line History
+[Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Supercharge Visual Studio Code's Git capabilities — Visualize code authorship at a glance via inline Git blame annotations and code lens, seamlessly navigate and explore the history of a file or branch, gain valuable insights via powerful comparision commands, and so much more.
+
+### HTML
+[Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag): Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
 
 ***
 ### Developer Experience Improvements

@@ -30,13 +30,13 @@
         "natewallace.angular2-inline",
         "pprice.better-merge",
         "pranaygp.vscode-css-peek",
-        "donjayamanne.githistory",
         "christian-kohler.path-intellisense",
         "EditorConfig.EditorConfig",
         "Mikael.Angular-BeastCode",
         "infinity1207.angular2-switcher",
-        "ryu1kn.annotator",
         "Zignd.html-css-class-completion",
-        "P-de-Jong.vscode-html-scss"
+        "P-de-Jong.vscode-html-scss",
+        "formulahendry.auto-close-tag",
+        "eamodio.gitlens"
     ]
 }
