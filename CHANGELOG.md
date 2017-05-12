@@ -1,5 +1,8 @@
 # Change Log
 
+#1.4.0
+- Removed Git Lens
+
 #1.3.0
 - Added Git Lens
 - Added Auto Close Tag
