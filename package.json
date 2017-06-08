@@ -2,7 +2,7 @@
     "name": "angular-productivity-pack",
     "displayName": "Angular Productivity Pack",
     "description": "A collection of Angular extensions to boost productivity",
-    "version": "1.4.0",
+    "version": "1.5.1",
     "license": "MIT",
     "icon": "images/angular-muscle.png",
     "publisher": "devboosts",

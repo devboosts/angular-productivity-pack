@@ -18,9 +18,6 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [SimonTest](https://marketplace.visualstudio.com/items?itemName=SimonTest.simontest): Analyzes your Angular code and generates tests for you.
 ***
-### Git
-[Better Merge](https://marketplace.visualstudio.com/items?itemName=pprice.better-merge): Improved git merge conflict support
-
 ### HTML
 [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag): Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text.
 

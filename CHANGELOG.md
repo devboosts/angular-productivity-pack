@@ -1,5 +1,11 @@
 # Change Log
 
+#1.5.1
+- Fixed Changelog
+
+#1.5.0
+- Removed Better Merge
+
 #1.4.0
 - Removed Git Lens
 
