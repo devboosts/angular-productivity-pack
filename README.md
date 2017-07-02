@@ -36,7 +36,5 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons): File Icons - Includes Angular specific icons
 
-[HTML CSS Class Completion](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion): Provides CSS class name completion for the HTML class attribute based on the CSS files on your workspace.
-
 [HTML SCSS Support](https://marketplace.visualstudio.com/items?itemName=P-de-Jong.vscode-html-scss): SCSS support for HTML documents
 

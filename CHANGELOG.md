@@ -1,4 +1,6 @@
 # Change Log
+#1.6.0
+- Removed HTML CSS Class Completion
 
 #1.5.1
 - Fixed Changelog
