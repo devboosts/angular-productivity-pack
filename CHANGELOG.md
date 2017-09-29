@@ -1,4 +1,8 @@
 # Change Log
+
+#1.6.1
+- Removed Auto Close Tag
+
 #1.6.0
 - Removed HTML CSS Class Completion
 

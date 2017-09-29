@@ -2,7 +2,7 @@
     "name": "angular-productivity-pack",
     "displayName": "Angular Productivity Pack",
     "description": "A collection of Angular extensions to boost productivity",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "license": "MIT",
     "icon": "images/angular-muscle.png",
     "publisher": "devboosts",
@@ -15,7 +15,7 @@
     },
     "homepage": "https://github.com/devboosts/angular-productivity-pack#readme",
     "engines": {
-        "vscode": "^1.0.0"
+        "vscode": "^1.6.0"
     },
     "categories": [
         "Extension Packs"
@@ -33,7 +33,6 @@
         "EditorConfig.EditorConfig",
         "Mikael.Angular-BeastCode",
         "infinity1207.angular2-switcher",
-        "P-de-Jong.vscode-html-scss",
-        "formulahendry.auto-close-tag"
+        "P-de-Jong.vscode-html-scss"        
     ]
 }
