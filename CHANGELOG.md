@@ -1,5 +1,8 @@
 # Change Log
 
+#1.7.0
+- Added Better Comments
+
 #1.6.1
 - Removed Auto Close Tag
 

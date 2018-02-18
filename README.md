@@ -4,7 +4,6 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 ## What's Inside
 
-
 ### Angular
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template): Editor services for Angular templates
 
@@ -21,6 +20,8 @@ See an extension that you think should be included? Create an [issue](https://gi
 ### Developer Experience Improvements
 
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Automatically rename paired HTML/XML tag, same as Visual Studio IDE does
+
+[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Add color to TODO comments
 
 [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek): Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition
 
