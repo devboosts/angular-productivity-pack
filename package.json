@@ -2,7 +2,7 @@
     "name": "angular-productivity-pack",
     "displayName": "Angular Productivity Pack",
     "description": "A collection of Angular extensions to boost productivity",
-    "version": "1.7.0",
+    "version": "2.0.0",
     "license": "MIT",
     "icon": "images/angular-muscle.png",
     "publisher": "devboosts",
@@ -15,25 +15,39 @@
     },
     "homepage": "https://github.com/devboosts/angular-productivity-pack#readme",
     "engines": {
-        "vscode": "^1.20.0"
+        "vscode": "^1.26.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
-        "Angular.ng-template",
+    "extensionPack": [
+        "aaron-bond.better-comments",
+        "coenraads.bracket-pair-colorizer",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "ibm.output-colorizer",
+        "jasonnutter.search-node-modules",
+        "knisterpeter.vscode-commitizen",
+        "ms-vsliveshare.vsliveshare",
+        "P-de-Jong.vscode-html-scss",
+        "pranaygp.vscode-css-peek",        
+        "quicktype.quicktype",
+        "rebornix.project-snippets",
         "robertohuertasm.vscode-icons",
-        "eg2.tslint",                           
-        "formulahendry.auto-rename-tag",
-        "jakethashi.vscode-angular2-emmet",
-        "natewallace.angular2-inline",
-        "pprice.better-merge",
-        "pranaygp.vscode-css-peek",
+        "spikespaz.vscode-smoothtype"
+    ],
+    "extensionDependencies": [ 
+        "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
         "EditorConfig.EditorConfig",
-        "Mikael.Angular-BeastCode",
+        "eg2.tslint",                           
+        "eg2.vscode-npm-script",
+        "formulahendry.auto-rename-tag",
         "infinity1207.angular2-switcher",
-        "P-de-Jong.vscode-html-scss",
-        "aaron-bond.better-comments"
+        "jakethashi.vscode-angular2-emmet",
+        "Mikael.Angular-BeastCode",
+        "mrmlnc.vscode-scss",
+        "natewallace.angular2-inline",
+        "shinnn.stylelint"
     ]
 }
