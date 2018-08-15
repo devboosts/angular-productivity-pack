@@ -34,7 +34,8 @@
         "quicktype.quicktype",
         "rebornix.project-snippets",
         "robertohuertasm.vscode-icons",
-        "spikespaz.vscode-smoothtype"
+        "spikespaz.vscode-smoothtype",
+        "cyrilletuzi.angular-schematics"
     ],
     "extensionDependencies": [ 
         "christian-kohler.npm-intellisense",

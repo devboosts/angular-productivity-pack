@@ -15,6 +15,8 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher): Easily navigate to component's files in angular2 project.
 
+[Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics): Launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette.
+
 ---
 ### Developer Experience Improvements
 
