@@ -35,9 +35,7 @@
         "rebornix.project-snippets",
         "robertohuertasm.vscode-icons",
         "spikespaz.vscode-smoothtype",
-        "cyrilletuzi.angular-schematics"
-    ],
-    "extensionDependencies": [ 
+        "cyrilletuzi.angular-schematics",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
         "EditorConfig.EditorConfig",
