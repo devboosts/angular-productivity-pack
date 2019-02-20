@@ -56,7 +56,7 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [SmoothType](https://marketplace.visualstudio.com/items?itemName=spikespaz.vscode-smoothtype): Adds a smooth typing animation, similar to MS Office and the Windows 10 Mail app
 
-[TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint): TSLint for Visual Studio Code
+[TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin): TSLint for Visual Studio Code
 
 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons): File Icons - Includes Angular specific icons
 

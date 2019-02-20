@@ -1,5 +1,8 @@
 # Change Log
 
+# 2.1.2
+Updated TSLint from EGamma's to Microsoft's official plugin.
+
 # 2.0.0
 Version 1.26 of VS Code now [allows consumers of extension packs to disable / uninstall individual extensions](https://code.visualstudio.com/updates/v1_26#_extension-pack-management).
 Now that this is available, I've updated the pack with all useful extensions.  
