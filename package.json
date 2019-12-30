@@ -2,7 +2,7 @@
     "name": "angular-productivity-pack",
     "displayName": "Angular Productivity Pack",
     "description": "A collection of Angular extensions to boost productivity",
-    "version": "2.1.2",
+    "version": "2.2.0",
     "license": "MIT",
     "icon": "images/angular-muscle.png",
     "publisher": "devboosts",
@@ -47,6 +47,6 @@
         "Mikael.Angular-BeastCode",
         "mrmlnc.vscode-scss",
         "natewallace.angular2-inline",
-        "shinnn.stylelint"
+        "stylelint.vscode-stylelint"
     ]
 }

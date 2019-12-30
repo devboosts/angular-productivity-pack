@@ -48,7 +48,7 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [Project Snippets](https://marketplace.visualstudio.com/items?itemName=rebornix.project-snippets): Provide workspace/project level code snippets
 
-[stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint): Lint CSS/SCSS/Less with stylelint
+[stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint): Modern CSS/SCSS/Less linter
 
 [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss): Advanced autocompletion and refactoring support for SCSS
 

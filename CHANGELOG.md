@@ -1,5 +1,8 @@
 # Change Log
 
+# 2.2.0
+Update to offical stylelint extension
+
 # 2.1.2
 Updated TSLint from EGamma's to Microsoft's official plugin.
 
