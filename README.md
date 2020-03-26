@@ -7,15 +7,13 @@ See an extension that you think should be included? Create an [issue](https://gi
 ### Angular
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template): Editor services for Angular templates
 
-[Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet): Support zen-coding syntax for Angular 2 typescript files.
-
-[angular2-inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline): Visual Studio Code language extension for javascript/typescript files that use Angular2.
+[Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet): Support zen-coding syntax for Angular 2 typescript files
 
 [Angular 6 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode): 88 Angular 2+ Snippets (TypeScript, Html, ngRx, Angular Flex Layout & Testing)
 
-[angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher): Easily navigate to component's files in angular2 project.
+[angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher): Easily navigate to component's files in angular2 project
 
-[Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics): Launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette.
+[Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics): Launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette
 
 ---
 ### Developer Experience Improvements
@@ -55,6 +53,8 @@ See an extension that you think should be included? Create an [issue](https://gi
 [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules): Quickly search the node_modules folder
 
 [SmoothType](https://marketplace.visualstudio.com/items?itemName=spikespaz.vscode-smoothtype): Adds a smooth typing animation, similar to MS Office and the Windows 10 Mail app
+
+[Split HTML Attributes](https://marketplace.visualstudio.com/items?itemName=dannyconnell.split-html-attributes): Split your Vue, React & Angular directives & props (and HTML attributes) onto new lines, instantly!
 
 [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin): TSLint for Visual Studio Code
 

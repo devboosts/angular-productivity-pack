@@ -1,5 +1,9 @@
 # Change Log
 
+# 2.3.0
+Add Split HTML Attributes
+Remove angular2-inline
+
 # 2.2.0
 Update to offical stylelint extension
 
