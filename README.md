@@ -7,11 +7,9 @@ See an extension that you think should be included? Create an [issue](https://gi
 ### Angular
 [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template): Editor services for Angular templates
 
-[Angular 2 TypeScript Emmet](https://marketplace.visualstudio.com/items?itemName=jakethashi.vscode-angular2-emmet): Support zen-coding syntax for Angular 2 typescript files
+[Angular 9 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode): TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
 
-[Angular 6 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode): 88 Angular 2+ Snippets (TypeScript, Html, ngRx, Angular Flex Layout & Testing)
-
-[angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher): Easily navigate to component's files in angular2 project
+[angular2-switcher](https://marketplace.visualstudio.com/items?itemName=infinity1207.angular2-switcher): Easily navigate to component's files in Angular project
 
 [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics): Launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette
 
