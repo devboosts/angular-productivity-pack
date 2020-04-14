@@ -1,5 +1,11 @@
 # Change Log
 
+# 2.5.0
+Add Angular File Switcher
+
+# 2.4.0
+Remove Angular Emmet
+
 # 2.3.0
 Add Split HTML Attributes
 Remove angular2-inline

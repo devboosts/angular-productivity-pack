@@ -13,6 +13,8 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics): Launch Angular schematics (CLI commands) from files Explorer (right-click) or Command Palette
 
+[Angular File Changer](https://marketplace.visualstudio.com/items?itemName=john-crowson.angular-file-changer): Easily navigate between typescript, template, style, and associated test files in your Angular project using the Mac Touch Bar.
+
 ---
 ### Developer Experience Improvements
 
