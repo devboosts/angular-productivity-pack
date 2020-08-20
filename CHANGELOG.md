@@ -1,5 +1,8 @@
 # Change Log
 
+# 2.6.0
+Add arrr
+
 # 2.5.0
 Add Angular File Switcher
 

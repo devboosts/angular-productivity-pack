@@ -15,6 +15,9 @@ See an extension that you think should be included? Create an [issue](https://gi
 
 [Angular File Changer](https://marketplace.visualstudio.com/items?itemName=john-crowson.angular-file-changer): Easily navigate between typescript, template, style, and associated test files in your Angular project using the Mac Touch Bar.
 
+[arrr](https://marketplace.visualstudio.com/items?itemName=obenjiro.arrr): Refactor components from HTML templates
+
+
 ---
 ### Developer Experience Improvements
 
